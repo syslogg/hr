@@ -45,13 +45,13 @@ Classes OOCSS
             </header>
         </div>
 
-        <div class="content-line">
+        <div class="content-line-full">
 
             <!-- NAVBAR -->
             <div class="main-nav">
                 <ul class = "nav">
                     <li class="nav-item"><a title="Acessar Dashboard" href="#">Dashboard</a></li>
-                    <li class="nav-item"><a href="#"><?php echo "<b>ASDSADSAD</b>"; ?></a>
+                    <li class="nav-item"><a href="#"><?php echo "<b>Gerencia</b>"; ?></a>
                         <ul class = "nav-sub">
                             <li class="nav-item"><a href="#">Opção 1.1</a></li>
                             <li class="nav-item"><a href="#">Opção 1.2</a></li>
@@ -60,7 +60,7 @@ Classes OOCSS
                             <li class="nav-item"><a href="#">Opção 1.5</a></li>
                         </ul>
                     </li>
-                    <li class="nav-item"><a href="#">Dashboard</a>
+                    <li class="nav-item"><a href="#">Softwares</a>
                         <ul class = "nav-sub">
                             <li class="nav-item"><a href="#">Opção 2.1</a></li>
                             <li class="nav-item"><a href="#">Opção 2.2</a></li>
@@ -69,10 +69,10 @@ Classes OOCSS
                             <li class="nav-item"><a href="#">Opção 2.5</a></li>
                         </ul>
                     </li>
-                    <li class="nav-item"><a href="#">Dashboard</a></li>
-                    <li class="nav-item"><a href="#">Dashboard</a></li>
-                    <li class="nav-item"><a href="#">Dashboard</a></li>
-                    <li class="nav-item"><a href="#">Dashboard</a></li>
+                    <li class="nav-item"><a href="#">Configurações</a></li>
+                    <li class="nav-item"><a href="#">Analise</a></li>
+                    <li class="nav-item"><a href="#">Funcionários</a></li>
+                    <li class="nav-item"><a href="#">Sair</a></li>
                 </ul>
             </div>
             

@@ -64,11 +64,13 @@ img { max-width:100%; height:auto; border:0; }
 
 /** --= NavBar =-- */
 
-.main-nav {   }
+.main-nav { background:#4CA5FF; }
 
-.nav { list-style-type:none; display:inline-block; }
-.nav .nav-item {   }
-.nav .nav-sub { display:none; }
+.nav { list-style-type:none; }
+.nav .nav-item {display:block; margin-left:0;  border-bottom:1px dashed white;}
+.nav .nav-item a {  color:white; display:block; padding:7px 5px; }
+.nav .nav-sub { display:block; background: #34495E}
+.nav .nav-sub .nav-item { margin-left:10px; }
 
 
 /** --= TitleBar =-- */

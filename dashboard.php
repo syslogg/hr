@@ -18,6 +18,7 @@ Classes OOCSS
 	<link href='https://fonts.googleapis.com/css?family=Open+Sans:400,300,300italic,400italic,600,600italic,700,700italic' rel='stylesheet' type='text/css'>
     <link rel="stylesheet" href="css/grid.css" />
 	<link rel="stylesheet" href="css/style.css" />
+    
 </head>
 <body itemscope itemtype="http://schema.org/WebPage">
     <div class="root">
@@ -38,7 +39,7 @@ Classes OOCSS
                     <div class="float-right option-bar">
                         <a title="Notificações" href="#" class="float-left option-bar-icon"><img src="img/bells.png" /></a>
                         <a title="Opções de usuário" href="#" class="float-left option-bar-icon"><img src="img/circle.png"/></a>
-        				<a title="Menu" href="#" class="float-left option-bar-icon"><img src="img/menu.png"/></a>
+        				<a title="Menu" href="#" class="btn-collapse float-left option-bar-icon"><img src="img/menu.png"/></a>
                     </div>
                     
                 </div>
@@ -51,7 +52,7 @@ Classes OOCSS
             <div class="main-nav">
                 <ul class = "nav">
                     <li class="nav-item"><a title="Acessar Dashboard" href="#">Dashboard</a></li>
-                    <li class="nav-item"><a href="#"><?php echo "<b>Gerencia</b>"; ?></a>
+                    <li class="nav-item"><a href="#" class="nav-click"><?php echo "<b>Gerencia</b>"; ?></a>
                         <ul class = "nav-sub">
                             <li class="nav-item"><a href="#">Opção 1.1</a></li>
                             <li class="nav-item"><a href="#">Opção 1.2</a></li>
@@ -60,7 +61,7 @@ Classes OOCSS
                             <li class="nav-item"><a href="#">Opção 1.5</a></li>
                         </ul>
                     </li>
-                    <li class="nav-item"><a href="#">Softwares</a>
+                    <li class="nav-item"><a href="#" class="nav-click">Softwares</a>
                         <ul class = "nav-sub">
                             <li class="nav-item"><a href="#">Opção 2.1</a></li>
                             <li class="nav-item"><a href="#">Opção 2.2</a></li>
@@ -345,5 +346,7 @@ Classes OOCSS
             
         </footer>
     </div>
+    <script src="lib/jquery/jquery.min.js" type="text/javascript"></script>
+    <script src="js/site.js" type="text/javascript"></script>
 </body>
 </html>

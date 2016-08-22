@@ -42,7 +42,7 @@ img { max-width:100%; height:auto; border:0; }
 .img-round { border-radius:100%; }
 .img-border { border:3px solid #ccc !important; }
 
-
+ 
 /** --= Style global =-- */
 .logo { display:block; }
 .main-header { background:#34495E; padding-top:15px  !important; padding-bottom:15px !important ; position:relative;}

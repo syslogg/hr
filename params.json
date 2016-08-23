@@ -1,0 +1,6 @@
+{
+  "name": "HR Administrative Panel",
+  "tagline": "designed and develop for Hendy R. F. Silva and contributors",
+  "body": "# Painel administrativo\r\nDesenvolvimento de um painel administrativo para utilização em qualquer tipo de projeto.\r\nUtilizando OOCSS para melhor adaptação em qualquer projeto.\r\n\r\n# Documentation\r\n\r\n## Information\r\n**Name:** Administrative panel<br/>\r\n**Date created:** 10/11/2015<br/>\r\n**Description:** Painel administrativo para ser usado em vários projetos<br/>\r\n<br/>\r\n**Breakpoints:**<br/>\r\nMobile: 240px - 519px<br/>\r\nTablet: 520px - 959px<br/>\r\nDesktop: 960px - 1366px<br/>\r\n\r\n**In conclusion...**\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}

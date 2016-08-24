@@ -38,7 +38,7 @@ Classes OOCSS
                     
                     <div class="float-right option-bar">
                         <a title="Notificações" href="#" class="float-left option-bar-icon"><img src="img/bells.png" /></a>
-                        <a title="Opções de usuário" href="#" class="float-left option-bar-icon"><img src="img/circle.png"/></a>
+                        <a title="Opções de usuário" href="#" class="float-left option-bar-icon"><img class="img-round" src="https://www.gravatar.com/avatar/31a75f77aea5174741cee6b008b35af6?s=300"/></a>
         				<a title="Menu" href="#" class="btn-collapse float-left option-bar-icon"><img src="img/menu.png"/></a>
                     </div>
                     

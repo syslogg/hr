@@ -268,8 +268,8 @@ img { max-width:100%; height:auto; border:0; }
 
 /**  --= BREAKPOINT! - Tablet - Acima de 520px  */
 
-@media (min-width: 520px) and (max-width:959px) {
-	
+/*@media (min-width: 520px) and (max-width:959px) {*/
+@media (min-width: 520px) {*
 	.logo { width:15%; }
 	
 	.option-bar { width:16.5%;  }
